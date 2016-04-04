@@ -1,0 +1,133 @@
+/*!
+ * Start Bootstrap - Portfolio Item HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+
+.chart-s {
+    position: relative;
+    float: left;
+    margin-right: 20px;
+}
+.chart-s .count {
+    position: absolute;
+    border-radius: 50%;
+    top: 0px;
+    left: -15px;
+    height: 152px;
+    width: 152px;
+}
+
+.chart-s em,
+.chart-s span {
+    font-family: Arial;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+}
+.chart-s em {
+    display: block;
+    font-size: 40px;
+    font-style: normal;
+    color: #808080;
+    line-height: 150px;
+}
+.chart-s es {
+    display: block;
+    font-size: 20px;
+    font-style: normal;
+    color: #808080;
+    line-height: 150px;
+}
+.chart-s .caption {
+    position: absolute;
+    font-size: 12px;
+    top: 20px;
+    left: 0px;
+    color: #808080;
+}
+
+.chart-s .caption2 {
+    position: absolute;
+    font-size: 12px;
+    top: 80px;
+    left: 20px;
+    color: #808080;
+}
+
+/*
+chart-t バーグラフのデザイン
+
+*/
+
+/*
+chart-t バーグラフのデザイン
+
+*/
+
+
+.chart-t {
+    position: relative;
+    float: left;
+    margin-right: 20px;
+}
+.chart-t .count {
+    position: absolute;
+    border-radius: 50%;
+    top: 24px;
+    left: 24px;
+    height: 152px;
+    width: 152px;
+}
+
+.chart-t em,
+.chart-t span {
+    font-family: Arial;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+}
+.chart-t em {
+    display: block;
+    font-size: 50px;
+    font-style: normal;
+    color: #eee;
+    line-height: 150px;
+}
+.chart-t .caption {
+    position: absolute;
+    top: 50px;
+    left: 40px;
+    color: #eee;
+}
+#chart2 .count {
+    background: url(http://startapp.jp/img/refs/jsfiddle_medium_6628140291.jpg) -20px -20px no-repeat;
+
+}
+#chart2 .count em {
+    color: #eee;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.canvas-back {
+  background-color: #eee;
+}
+
+.chart-s-back {
+  background-color: #eee;
+  width: 150px;
+  height: 150px;
+}
